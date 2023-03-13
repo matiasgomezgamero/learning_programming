@@ -1,18 +1,17 @@
-//contar de 1 en 1 hasta 10 en la mente y hable de 2 en 2
-
+//contar hasta 20 de 2 en 2 en la mente y hablar de 4 en 4
 var n;
-n = 1;
-n = n + 1;
+n = 2;
+n = n + 2;
 console.log(n);
-n = n + 1;
-n = n + 1;
+n = n + 2;
+n = n + 2;
 console.log(n);
-n = n + 1;
-n = n + 1;
+n = n + 2;
+n = n + 2;
 console.log(n);
-n = n + 1;
-n = n + 1;
+n = n + 2;
+n = n + 2;
 console.log(n);
-n = n + 1;
-n = n + 1;
+n = n + 2;
+n = n + 2;
 console.log(n);
