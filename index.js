@@ -18,5 +18,9 @@ while (n > 0) {
   console.log(n);
   n = n - 1;
 }
-
 //contar de 50 hasta 20 de 2 en 2
+n = 50;
+while (n > 19) {
+  console.log(n);
+  n = n - 2;
+}
